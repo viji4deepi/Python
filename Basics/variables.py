@@ -18,3 +18,9 @@ print(a, b, c)
 # find variable with the type() function.
 print(type(x))
 print(type(y))
+
+
+#The below code will not overwrite the variables it will create two variables
+
+a = 4
+A = "Bear"
